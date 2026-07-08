@@ -114,7 +114,7 @@ Zara-Sales-Analysis
 │
 ├── images
 │   └── dashboard.png
-│
+├── Data_penjualan_ZARA.ipynb
 ├── README.md
 ├── requirements.txt
 ```
