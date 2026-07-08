@@ -7,6 +7,19 @@
 
 ---
 
+# 🖥️ Dashboard Preview
+
+<p align="center">
+    <img src="images/dashboard zara.jpg" width="1000">
+</p>
+
+## 🌐 Live Dashboard
+
+🔗 **View Interactive Dashboard:**  
+[https://lookerstudio.google.com/...](https://datastudio.google.com/reporting/e77ffbee-3848-4ce1-9573-7fe47da3f07b)
+
+---
+
 # 📌 Project Overview
 
 Industri fashion sangat bergantung pada analisis data untuk memahami perilaku penjualan, mengevaluasi efektivitas strategi pemasaran, dan mengoptimalkan penempatan produk di toko. Melalui proyek ini dilakukan analisis terhadap dataset penjualan Zara guna memperoleh insight mengenai performa produk berdasarkan berbagai aspek, seperti kategori produk, promosi, posisi produk, harga, dan koleksi musiman serta kontribusi pendapatan (Revenue).
@@ -173,21 +186,6 @@ Dashboard menyediakan beberapa filter sehingga pengguna dapat mengeksplorasi dat
 - Promotion
 - Seasonal
 - Product Position
-
----
-
-# 🖥️ Dashboard Preview
-
-> Simpan screenshot dashboard berikut pada folder **images** dengan nama **dashboard.png**
-
-<p align="center">
-    <img src="images/dashboard zara.jpg" width="1000">
-</p>
-
-## 🌐 Live Dashboard
-
-🔗 **View Interactive Dashboard:**  
-[https://lookerstudio.google.com/...](https://datastudio.google.com/reporting/e77ffbee-3848-4ce1-9573-7fe47da3f07b)
 
 ---
 
