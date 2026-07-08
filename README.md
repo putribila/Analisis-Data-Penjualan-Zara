@@ -28,7 +28,7 @@ Selain melakukan Exploratory Data Analysis (EDA), hasil analisis divisualisasika
 
 ---
 
-# Objectives
+## Objectives
 
 Proyek ini bertujuan untuk:
 
@@ -42,7 +42,7 @@ Proyek ini bertujuan untuk:
 
 ---
 
-# Dataset Source
+## Dataset Source
 
 Dataset diperoleh dari Kaggle.
 
@@ -76,7 +76,7 @@ Dataset berisi informasi mengenai:
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Programming Language
 
@@ -98,7 +98,7 @@ Dataset berisi informasi mengenai:
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```
 Zara-Sales-Analysis
@@ -121,7 +121,7 @@ Zara-Sales-Analysis
 ```
 ---
 
-# Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Tahapan analisis yang dilakukan meliputi:
 
@@ -155,7 +155,7 @@ Analisis dilakukan berdasarkan:
 
 ---
 
-# Dashboard
+## Dashboard
 
 Dashboard dibuat menggunakan **Google Data Studio** untuk memvisualisasikan hasil analisis secara interaktif.
 
@@ -190,7 +190,7 @@ Dashboard menyediakan beberapa filter sehingga pengguna dapat mengeksplorasi dat
 
 ---
 
-# Key Insights
+## Key Insights
 
 Beberapa insight yang diperoleh dari analisis data:
 
@@ -203,7 +203,7 @@ Beberapa insight yang diperoleh dari analisis data:
 
 ---
 
-# Output
+## Output
 
 Project menghasilkan beberapa output:
 
@@ -214,7 +214,7 @@ Project menghasilkan beberapa output:
 
 ---
 
-# Visualizations
+## Visualizations
 
 Visualisasi yang dibuat pada notebook antara lain:
 
@@ -231,7 +231,7 @@ Visualisasi yang dibuat pada notebook antara lain:
 
 ---
 
-# Future Improvements
+## Future Improvements
 
 Pengembangan yang dapat dilakukan pada proyek ini:
 
