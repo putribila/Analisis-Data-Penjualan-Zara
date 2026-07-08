@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Google-Colab-F9AB00" alt="Google Colab">
 </p>
 
-# Dashboard Preview
+## Dashboard Preview
 
 <p align="center">
     <img src="images/dashboard zara.jpg" width="1000">
