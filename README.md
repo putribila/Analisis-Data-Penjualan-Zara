@@ -4,7 +4,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-yellow)
 ![Looker Studio](https://img.shields.io/badge/Google-Data%20Studio-orange)
 ![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
