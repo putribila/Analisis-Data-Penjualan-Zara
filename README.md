@@ -1,20 +1,18 @@
 # 📊 Zara Sales Data Analysis Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-yellow)
-![Looker Studio](https://img.shields.io/badge/Google-Looker%20Studio-orange)
+![Looker Studio](https://img.shields.io/badge/Google-Data%20Studio-orange)
 ![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
-Analisis data penjualan Zara menggunakan **Python** untuk melakukan **Exploratory Data Analysis (EDA)** dan membangun dashboard interaktif menggunakan **Google Looker Studio**. Proyek ini bertujuan untuk memperoleh insight mengenai performa penjualan produk berdasarkan kategori, promosi, posisi produk, koleksi musiman, serta kontribusi pendapatan (Revenue).
 
 ---
 
 # 📌 Project Overview
 
-Industri fashion sangat bergantung pada analisis data untuk memahami perilaku penjualan, mengevaluasi efektivitas strategi pemasaran, dan mengoptimalkan penempatan produk di toko. Melalui proyek ini dilakukan analisis terhadap dataset penjualan Zara guna memperoleh insight mengenai performa produk berdasarkan berbagai aspek, seperti kategori produk, promosi, posisi produk, harga, dan koleksi musiman.
+Industri fashion sangat bergantung pada analisis data untuk memahami perilaku penjualan, mengevaluasi efektivitas strategi pemasaran, dan mengoptimalkan penempatan produk di toko. Melalui proyek ini dilakukan analisis terhadap dataset penjualan Zara guna memperoleh insight mengenai performa produk berdasarkan berbagai aspek, seperti kategori produk, promosi, posisi produk, harga, dan koleksi musiman serta kontribusi pendapatan (Revenue).
 
-Selain melakukan Exploratory Data Analysis (EDA), hasil analisis divisualisasikan dalam bentuk dashboard interaktif menggunakan **Google Looker Studio**, sehingga informasi bisnis dapat dipahami dengan lebih mudah dan mendukung proses pengambilan keputusan.
+Selain melakukan Exploratory Data Analysis (EDA), hasil analisis divisualisasikan dalam bentuk dashboard interaktif menggunakan **Google Data Studio**, sehingga informasi bisnis dapat dipahami dengan lebih mudah dan mendukung proses pengambilan keputusan.
 
 ---
 
@@ -47,17 +45,22 @@ https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara
 
 Dataset berisi informasi mengenai:
 
-- Product ID
-- Product Name
-- Product Position
-- Product Category
-- Promotion
-- Seasonal Product
-- Sales Volume
-- Product Price
-- Section
-- Revenue
-- dan atribut lainnya.
+- Product ID: Unique identifier for each product.
+- Product Position: The position of the product in the catalog or store layout.
+- Promotion: Indicator of whether the product is currently on promotion or not.
+- Product Category: The category of the product, such as clothing, accessories, shoes, etc.
+- Seasonal: Indicator of whether the product is part of a specific seasonal collection.
+- Sales Volume: The quantity of products sold.
+- Brand: Brand of the product.
+- URL: Product URL (e.g., if the product is sold online).
+- SKU: Stock Keeping Unit, a unique code used to identify items available for sale.
+- Name: Name of the product.
+- Description: Description of the product.
+- Price: Price of the product.
+- Currency: Currency of the product price.
+- Scraped_at: The time when the data was scraped (e.g., in web scraping process).
+- Terms: Terms or conditions of the product.
+- Section: Section or category where the product is sold in the store (e.g., women's clothing, men's clothing, children's clothing, etc.).
 
 ---
 
@@ -73,12 +76,11 @@ Dataset berisi informasi mengenai:
 - NumPy
 - Matplotlib
 - Seaborn
-- OpenPyXL
 
 ### Tools
 
 - Google Colab
-- Google Looker Studio
+- Google Data Studio
 - Git
 - GitHub
 
@@ -103,9 +105,7 @@ Zara-Sales-Analysis
 │
 ├── README.md
 ├── requirements.txt
-└── .gitignore
 ```
-
 ---
 
 # 🔍 Exploratory Data Analysis
@@ -144,7 +144,7 @@ Analisis dilakukan berdasarkan:
 
 # 📊 Dashboard
 
-Dashboard dibuat menggunakan **Google Looker Studio** untuk memvisualisasikan hasil analisis secara interaktif.
+Dashboard dibuat menggunakan **Google Data Studio** untuk memvisualisasikan hasil analisis secara interaktif.
 
 Dashboard menyediakan beberapa filter sehingga pengguna dapat mengeksplorasi data berdasarkan kebutuhan.
 
@@ -182,8 +182,13 @@ Dashboard menyediakan beberapa filter sehingga pengguna dapat mengeksplorasi dat
 > Simpan screenshot dashboard berikut pada folder **images** dengan nama **dashboard.png**
 
 <p align="center">
-    <img src="images/dashboard.png" width="1000">
+    <img src="images/dashboard zara.jpg" width="1000">
 </p>
+
+## 🌐 Live Dashboard
+
+🔗 **View Interactive Dashboard:**  
+[https://lookerstudio.google.com/...](https://datastudio.google.com/reporting/e77ffbee-3848-4ce1-9573-7fe47da3f07b)
 
 ---
 
@@ -206,38 +211,8 @@ Project menghasilkan beberapa output:
 
 - Exploratory Data Analysis Notebook
 - Dataset yang telah dibersihkan
-- Dashboard Google Looker Studio
+- Dashboard Google Data Studio
 - Insight bisnis berdasarkan hasil analisis
-
----
-
-# 🚀 Installation
-
-Clone repository
-
-```bash
-git clone https://github.com/putnab42/Zara-Sales-Analysis.git
-```
-
-Masuk ke folder project
-
-```bash
-cd Zara-Sales-Analysis
-```
-
-Install dependency
-
-```bash
-pip install -r requirements.txt
-```
-
-Jalankan notebook menggunakan Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-atau buka notebook menggunakan **Google Colab**.
 
 ---
 
@@ -268,28 +243,3 @@ Pengembangan yang dapat dilakukan pada proyek ini:
 - Menambahkan analisis customer segmentation apabila tersedia data pelanggan.
 
 ---
-
-# 🙏 Acknowledgements
-
-Terima kasih kepada **Kaggle** dan pembuat dataset yang telah menyediakan dataset sehingga proyek ini dapat digunakan sebagai media pembelajaran dalam analisis data.
-
-Dataset:
-https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara
-
----
-
-# 👩‍💻 Author
-
-**Putri Nabila**
-
-Undergraduate Student | Informatics Engineering
-
-📧 Email : putnab42@gmail.com
-
-💼 LinkedIn : *(Tambahkan URL LinkedIn Anda di sini)*
-
-🐙 GitHub : https://github.com/putnab42
-
----
-
-⭐ Jika repository ini bermanfaat, jangan lupa berikan **Star** pada repository ini.
