@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Google-Data%20Studio-orange" alt="Google Data Studio">
   <img src="https://img.shields.io/badge/Google-Colab-F9AB00" alt="Google Colab">
 </p>
----
 
 # Dashboard Preview
 
