@@ -1,26 +1,27 @@
-# 📊 Zara Sales Data Analysis Dashboard
+<h1 align="center">ZARA Sales Data Analysis Dashboard</h1>
 
+<p align="center">
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-yellow)
 ![Looker Studio](https://img.shields.io/badge/Google-Data%20Studio-orange)
 ![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00)
-
+</p>
 ---
 
-# 🖥️ Dashboard Preview
+# Dashboard Preview
 
 <p align="center">
     <img src="images/dashboard zara.jpg" width="1000">
 </p>
 
-## 🌐 Live Dashboard
+## Live Dashboard
 
 🔗 **View Interactive Dashboard:**  
 [https://lookerstudio.google.com/...](https://datastudio.google.com/reporting/e77ffbee-3848-4ce1-9573-7fe47da3f07b)
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 Industri fashion sangat bergantung pada analisis data untuk memahami perilaku penjualan, mengevaluasi efektivitas strategi pemasaran, dan mengoptimalkan penempatan produk di toko. Proyek ini dilakukan analisis terhadap dataset penjualan ZARA guna memperoleh insight mengenai performa produk berdasarkan berbagai aspek, seperti kategori produk, promosi, posisi produk, harga, koleksi musiman serta kontribusi pendapatan (Revenue).
 
@@ -28,7 +29,7 @@ Selain melakukan Exploratory Data Analysis (EDA), hasil analisis divisualisasika
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 Proyek ini bertujuan untuk:
 
@@ -42,7 +43,7 @@ Proyek ini bertujuan untuk:
 
 ---
 
-# 📥 Dataset Source
+# Dataset Source
 
 Dataset diperoleh dari Kaggle.
 
@@ -98,7 +99,7 @@ Dataset berisi informasi mengenai:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 Zara-Sales-Analysis
@@ -121,7 +122,7 @@ Zara-Sales-Analysis
 ```
 ---
 
-# 🔍 Exploratory Data Analysis
+# Exploratory Data Analysis
 
 Tahapan analisis yang dilakukan meliputi:
 
@@ -155,7 +156,7 @@ Analisis dilakukan berdasarkan:
 
 ---
 
-# 📊 Dashboard
+# Dashboard
 
 Dashboard dibuat menggunakan **Google Data Studio** untuk memvisualisasikan hasil analisis secara interaktif.
 
@@ -190,7 +191,7 @@ Dashboard menyediakan beberapa filter sehingga pengguna dapat mengeksplorasi dat
 
 ---
 
-# 📈 Key Insights
+# Key Insights
 
 Beberapa insight yang diperoleh dari analisis data:
 
@@ -203,7 +204,7 @@ Beberapa insight yang diperoleh dari analisis data:
 
 ---
 
-# 📁 Output
+# Output
 
 Project menghasilkan beberapa output:
 
@@ -214,7 +215,7 @@ Project menghasilkan beberapa output:
 
 ---
 
-# 📷 Visualizations
+# Visualizations
 
 Visualisasi yang dibuat pada notebook antara lain:
 
@@ -231,7 +232,7 @@ Visualisasi yang dibuat pada notebook antara lain:
 
 ---
 
-# 📌 Future Improvements
+# Future Improvements
 
 Pengembangan yang dapat dilakukan pada proyek ini:
 
