@@ -22,7 +22,7 @@
 
 # 📌 Project Overview
 
-Industri fashion sangat bergantung pada analisis data untuk memahami perilaku penjualan, mengevaluasi efektivitas strategi pemasaran, dan mengoptimalkan penempatan produk di toko. Melalui proyek ini dilakukan analisis terhadap dataset penjualan Zara guna memperoleh insight mengenai performa produk berdasarkan berbagai aspek, seperti kategori produk, promosi, posisi produk, harga, dan koleksi musiman serta kontribusi pendapatan (Revenue).
+Industri fashion sangat bergantung pada analisis data untuk memahami perilaku penjualan, mengevaluasi efektivitas strategi pemasaran, dan mengoptimalkan penempatan produk di toko. Proyek ini dilakukan analisis terhadap dataset penjualan ZARA guna memperoleh insight mengenai performa produk berdasarkan berbagai aspek, seperti kategori produk, promosi, posisi produk, harga, koleksi musiman serta kontribusi pendapatan (Revenue).
 
 Selain melakukan Exploratory Data Analysis (EDA), hasil analisis divisualisasikan dalam bentuk dashboard interaktif menggunakan **Google Data Studio**, sehingga informasi bisnis dapat dipahami dengan lebih mudah dan mendukung proses pengambilan keputusan.
 
