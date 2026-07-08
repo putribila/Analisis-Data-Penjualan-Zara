@@ -1,10 +1,10 @@
 <h1 align="center">ZARA Sales Data Analysis Dashboard</h1>
 
 <p align="center">
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Pandas](https://img.shields.io/badge/Pandas-EDA-yellow)
-![Looker Studio](https://img.shields.io/badge/Google-Data%20Studio-orange)
-![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00)
+  <img src="https://img.shields.io/badge/Python-3.12-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-EDA-yellow" alt="Pandas">
+  <img src="https://img.shields.io/badge/Google-Data%20Studio-orange" alt="Google Data Studio">
+  <img src="https://img.shields.io/badge/Google-Colab-F9AB00" alt="Google Colab">
 </p>
 ---
 
